@@ -12,4 +12,4 @@ These case files are designed to be printed without supports. All overhangs have
 
 ## Get the files
 
-Download the latest [top](new-plastic-top.stl) and [bottom](new-plastic-bottom.stl) and get started!
+Download the latest [top](https://github.com/kubesail/pibox-case/raw/main/new-plastic-top.stl) and [bottom](https://github.com/kubesail/pibox-case/raw/main/new-plastic-bottom.stl) and get started!
